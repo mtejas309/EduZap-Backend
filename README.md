@@ -7,8 +7,7 @@ cd EduZap-Backend
 # 3. Install all dependencies
 npm install
 
-# 4. Start the frontend
-npm run dev
+# 4. Start the backend
+npm run dev // npm start
 
-# 5. Open in browser
-# Visit: http://localhost:5173
+
